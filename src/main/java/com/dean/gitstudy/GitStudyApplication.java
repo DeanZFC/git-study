@@ -8,7 +8,7 @@ public class GitStudyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitStudyApplication.class, args);
-        console.log(2)
+        console.log(222)
     }
 
 }
